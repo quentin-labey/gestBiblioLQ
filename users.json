@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "1234",
+      "roles": [
+        "ADMIN"
+      ]
+    },
+    {
+      "id": "2",
+      "username": "user1",
+      "password": "1234",
+      "roles": [
+        "USER"
+      ],
+      "id_book": [
+        "1"
+      ]
+    },
+    {
+      "id": "c74b",
+      "username": "test",
+      "password": "1234",
+      "roles": [
+        "USER"
+      ]
+    },
+    {
+      "id": "cb27",
+      "username": "test123",
+      "password": "1234",
+      "roles": [
+        "USER"
+      ]
+    },
+    {
+      "id": "a842",
+      "username": "user2",
+      "password": "1234",
+      "roles": [
+        "USER"
+      ],
+      "id_book": [
+        "2"
+      ]
+    }
+  ]
+}
